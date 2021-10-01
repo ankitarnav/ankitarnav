@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ankitarnav
-- 👀 I’m interested in Codind
+- 👀 I’m interested in Coding
 - 🌱 I’m currently learning MERN Stack
 
 <!---
